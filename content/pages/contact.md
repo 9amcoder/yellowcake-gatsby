@@ -10,7 +10,8 @@ email: Kalpinpainting@gmail.com
 locations:
   - lat: "43.516560"
     lng: "-80.176960"
-    mapLink: ""
+    mapLink: <a href="https://www.latlong.net/c/?lat=43.516560&long=-80.176960"
+      target="_blank">(43.516560, -80.176960)</a>
 meta:
   description: This is a meta description.
   title: null
