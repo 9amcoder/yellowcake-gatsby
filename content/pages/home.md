@@ -1,41 +1,41 @@
 ---
 template: HomePage
-slug: ''
-title: h
-featuredImage: 'https://images.unsplash.com/photo-1562259949-e8e7689d7828?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1016&q=80'
-subtitle: ' Welcome'
+slug: ""
+title: HIGH-QUALITY INTERIOR & EXTERIOR PAINTING SERVICES
+featuredImage: https://images.unsplash.com/photo-1562259949-e8e7689d7828?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1016&q=80
+subtitle: Based in Guelph, Ontario since 2010, we provide high-quality painting
+  services for all kind of surface from new residential constructions to
+  commercial properties.
 meta:
   description: This is a meta description.
-  title: 
+  title: null
 ---
+## OUR SERVICES
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+We are qualified to take on projects of all sizes and we can help you with new projects or refresh your current property
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+![posterInter](https://ucarecdn.com/e7285ba5-609d-4929-875e-793e66910973/)
 
-# Features
+![posterEx](https://ucarecdn.com/f260fa8f-45ac-47e7-be33-6145b0528e5c/)
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+![posterCommertial](https://ucarecdn.com/7797e7c6-d792-495b-8049-122e45baf321/)
 
-## Get started
+## OVER 10 YEARS REPUTATION FOR EXCELLENCE
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+Our highly trained, licensed, insured, and experienced painter will treat you and your property with the respect and attention to the quality of the project. No matter what services you need, we will ensure that you get fast and satisfactory results at a fair price.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
 
-gallery:
-  - alt: yellow rope image
-    image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
-    title: Yellow Rope
-  - alt: umbrellas
-    image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
-    title: Yellow Ice Cream
+
+![posterEco](https://ucarecdn.com/8979b29a-a7f7-42d7-9498-c786c261f9c7/)
+
+
+
+![posterEco2](https://ucarecdn.com/ced95222-2233-4c99-8f2e-6b41e4974f71/)
+
+
+
+![posterIntialColor](https://ucarecdn.com/14dfd731-5ded-4a59-a995-68fad9c7a17b/)
+
+
+
+![posterFlexible](https://ucarecdn.com/43b16709-1566-447d-936f-9136d567bab8/)
