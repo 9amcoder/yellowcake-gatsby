@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react'
 import PropTypes from 'prop-types'
 import Observer from './Observer'
-
+import Grid from 'react-css-grid'
 import './Image.css'
 
 class Image extends React.Component {
@@ -102,7 +102,8 @@ class Image extends React.Component {
     }
 
     return (
-      <Fragment>
+      
+         <Fragment>
         {isUploadcare && lazy && (
           <Observer onChange={this.handleIntersection}>
             <div
@@ -157,6 +158,11 @@ class Image extends React.Component {
           </Fragment>
         )}
       </Fragment>
+      
+      
+     
+
+    
     )
   }
 }

@@ -1,7 +1,9 @@
 .Content--Image,
 .Content img {
   max-width: 100%;
-  display: block;
+  display: flex; 
+  flex-wrap: wrap;
+  align-items: center;
   height: auto;
   margin-bottom: 2.5rem;
 }

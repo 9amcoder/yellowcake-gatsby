@@ -9,6 +9,8 @@ subtitle: Based in Guelph, Ontario since 2010, we provide high-quality painting
 meta:
   description: This is a meta description.
   title: null
+
+
 ---
 ## OUR SERVICES
 

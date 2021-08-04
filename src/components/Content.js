@@ -3,7 +3,9 @@ import ReactDOMServer from 'react-dom/server'
 import Marked from 'react-markdown'
 import PropTypes from 'prop-types'
 import Image from './Image'
-
+import { Column, Row } from 'simple-flexbox'
+import { Flex, Box } from 'reflexbox'
+import Grid from 'react-css-grid'
 import './Content.css'
 
 const encodeMarkdownURIs = (source = '') => {
@@ -26,14 +28,23 @@ const withContentImages = source => {
     source = source.replace(
       images[i],
       ReactDOMServer.renderToStaticMarkup(
+       <>
+      
         <Image
-          resolutions="medium"
-          className="Content--Image"
-          lazy={false}
-          src={src ? src[1] : null}
-          alt={alt ? alt[1] : null}
-          title={title ? title[1] : null}
-        />
+            resolutions="medium"
+            className="Content--Image"
+            lazy={false}
+            src={src ? src[1] : null}
+            alt={alt ? alt[1] : null}
+            title={title ? title[1] : null}
+            />
+      
+         
+      
+           
+       </>
+            
+         
       )
     )
   }
@@ -44,14 +55,16 @@ const withContentImages = source => {
 const MyImage = ({ nodeKey, src, title, alt }) => {
   const decodedSrc = decodeURI(src)
   return (
-    <Image
-      className="Content--Image markdown-preview"
-      resolutions="medium"
-      lazy={false}
-      src={decodedSrc}
-      title={title}
-      alt={alt}
-    />
+   
+           <Image
+              className="Content--Image markdown-preview"
+              resolutions="medium"
+              lazy={false}
+              src={decodedSrc}
+              title={title}
+              alt={alt}
+            />
+           
   )
 }
 

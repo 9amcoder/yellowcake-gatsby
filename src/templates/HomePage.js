@@ -5,8 +5,34 @@ import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 
+import { Column, Row } from 'simple-flexbox'
+import { Flex, Box } from 'reflexbox'
+import Grid from 'react-css-grid'
+
+
+
+import _kebabCase from 'lodash/kebabCase'
+
+
+import 'react-photoswipe/lib/photoswipe.css'
+import Accordion from '../components/Accordion'
+import BackgroundVideo from '../components/BackgroundVideo'
+import Gallery from '../components/Gallery'
+import Popup from '../components/Popup'
+
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
+export const HomePageTemplate = ({ 
+  title, 
+  subtitle, 
+  featuredImage, 
+  body,
+  section1,
+  section2,
+  video,
+  videoPoster,
+  videoTitle,
+  accordion,
+  gallery }) => (
   <main className="Home">
     <PageHeader
       large
@@ -14,20 +40,51 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
       subtitle={subtitle}
       backgroundImage={featuredImage}
     />
+    
+      <section className="section">
+        <div className="container">
+        {/* <Flex flexWrap='wrap'>
+      <Box width={[ 1, 1/2 ]}
+      p={3}> */}
+       
+          <Content source={body} />
+        
+        
+      {/* </Box> 
+    </Flex> */}
+      </div>
+    </section>
 
-    <section className="section">
+     {/* <section className="section">
+      <div className="container">
+        <h2>Our gallery component</h2>
+        <Gallery images={gallery} />
+      </div>
+    </section> */}
+    
+
+    
+     
+    {/* <section className="section">
       <div className="container">
         <Content source={body} />
       </div>
-    </section>
+    </section> */}
     
+    {/* <section className="section">
+      <div className="container">
+        <h2>Our gallery component</h2>
+        <Gallery images={gallery} />
+      </div>
+    </section> */}
    
   </main>
 )
 
 // Export Default HomePage for front-end
 const HomePage = ({ data: { page } }) => (
-  <Layout meta={page.frontmatter.meta || false}>
+  <Layout meta={page.frontmatter.meta || false}
+  title={page.frontmatter.title || false}>
     <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
   </Layout>
 )
@@ -42,11 +99,22 @@ export const pageQuery = graphql`
   query HomePage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
+      ...Gallery
       html
       frontmatter {
         title
         subtitle
         featuredImage
+        featuredImage
+        section1
+        section2
+        video
+        videoPoster
+        videoTitle
+        accordion {
+          title
+          description
+        }
       }
     }
   }
