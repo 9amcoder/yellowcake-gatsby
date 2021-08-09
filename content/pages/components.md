@@ -1,9 +1,9 @@
 ---
 template: ComponentsPage
 slug: components
-title: Components Page
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
-subtitle: This is the components page subtitle.
+title: Photos and Videos
+featuredImage: https://ucarecdn.com/572706a6-9ba8-4e94-9e87-60f8a4be7622/
+subtitle: You can find our work-related photoes and videos from here
 section1: >-
   ## This is a container component
 
@@ -18,16 +18,16 @@ section2: >-
   <iframe width="560" height="315" src="https://www.youtube.com/embed/_m2CHvfVK5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
 videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
-videoTitle: Also background videos, with poster image & title overlay.
+videoTitle: The Best Painting Service
 accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
+    title: Who we are?
   - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
+    title: What we do?
   - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
+    title: How to contact?
   - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
+    title: Privacy policy
 gallery:
   - alt: yellow rope image
     image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
@@ -40,5 +40,5 @@ gallery:
     title: Yellow Ice Cream
 meta:
   description: This is a meta description.
-  title: 
+  title: null
 ---
