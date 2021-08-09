@@ -1,10 +1,10 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+title: Kalpin Painting Blog Page
+featuredImage: https://ucarecdn.com/2ebb14ff-849a-4f9d-ac57-2318178d75ca/
+subtitle: Please watch our newest blog about our painting project
 meta:
   description: This is a meta description.
-  title: 
+  title: null
 ---
