@@ -8,17 +8,10 @@ import Layout from '../components/Layout'
 import { Column, Row } from 'simple-flexbox'
 import { Flex, Box } from 'reflexbox'
 import Grid from 'react-css-grid'
-
-
-
 import _kebabCase from 'lodash/kebabCase'
-
-
 import 'react-photoswipe/lib/photoswipe.css'
-import Accordion from '../components/Accordion'
 import BackgroundVideo from '../components/BackgroundVideo'
-import Gallery from '../components/Gallery'
-import Popup from '../components/Popup'
+
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({ 
@@ -41,29 +34,18 @@ export const HomePageTemplate = ({
       backgroundImage={featuredImage}
     />
     
-      <section className="section">
+
+    <section className="section">
         <div className="container">
-        {/* <Flex flexWrap='wrap'>
-      <Box width={[ 1, 1/2 ]}
-      p={3}> */}
-       
           <Content source={body} />
-        
-        
-      {/* </Box> 
-    </Flex> */}
       </div>
     </section>
 
-     {/* <section className="section">
-      <div className="container">
-        <h2>Our gallery component</h2>
-        <Gallery images={gallery} />
-      </div>
-    </section> */}
-    
-
-    
+    <section className="BackgroundVideo-section section">
+      <BackgroundVideo poster={videoPoster} videoTitle={videoTitle}>
+        {video && <source src={video} type="video/mp4" />}
+      </BackgroundVideo>
+    </section>
      
     {/* <section className="section">
       <div className="container">

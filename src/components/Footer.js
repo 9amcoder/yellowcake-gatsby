@@ -11,9 +11,9 @@ export default () => (
     <footer className="footer">
       <div className="container taCenter">
         <span>
-          © Copyright {new Date().getFullYear()} All rights reserved. Fork and redesign for Kalpin Painting
-          {/* Crafted by{' '} */}
-          {/* <a href="https://thriveweb.com.au/">Thrive</a>. */}
+          © Copyright {new Date().getFullYear()} All rights reserved. Developed for Kalpin Painting
+          by{' '} 
+           <a href="https://www.linkedin.com/in/stevesultan/">Steve</a>
         </span>
       </div>
     </footer>
