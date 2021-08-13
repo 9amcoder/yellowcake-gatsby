@@ -4,13 +4,7 @@ slug: components
 title: Photos and Videos
 featuredImage: https://ucarecdn.com/572706a6-9ba8-4e94-9e87-60f8a4be7622/
 subtitle: You can find our work-related photoes and videos from here
-section1: >-
-  ## This is a container component
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
-
-
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
+section1: "## THE BEST PAINTING SERVICE WITH 10+ YEARS OF EXPERIENCE"
 section2: >-
   ## You can use videos, images and text.
 
@@ -20,25 +14,31 @@ video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
 videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
 videoTitle: The Best Painting Service
 accordion:
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
+  - description: "Painting company with 10 years experience "
     title: Who we are?
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
+  - description: Interior, exterior , commercial painting service
     title: What we do?
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
+  - description: Call us at 416-475-2272 or email us at Kalpinpainting@gmail.com
     title: How to contact?
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
+  - description: We protect customers privacy. Please contact us to consult if you
+      would like know more about our privacy policy
     title: Privacy policy
 gallery:
-  - alt: yellow rope image
-    image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
-    title: Yellow Rope
-  - alt: umbrellas
-    image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
-    title: Yellow Ice Cream
+  - alt: interior painting1
+    image: https://ucarecdn.com/cde1b72f-360c-4fb7-864a-401e9fc2f3e1/
+    title: ""
+  - alt: Interior painting 1
+    image: https://ucarecdn.com/8199f9b5-8c07-4d1e-9ca5-85e0ac7f5838/
+    title: ""
+  - alt: Interior painting3
+    image: https://ucarecdn.com/2bd18bdb-b8c8-4905-b660-bfa73f220937/
+    title: ""
+  - image: https://ucarecdn.com/23cb6f5f-32d6-472b-a11e-7b1ca3669989/
+    alt: Exterior painting1
+    title: ""
+  - image: https://ucarecdn.com/3d5cda7d-2de7-4424-a467-b70e6b47de38/
+    alt: Exterior painting2
 meta:
-  description: This is a meta description.
+  description: Painting
   title: null
 ---
