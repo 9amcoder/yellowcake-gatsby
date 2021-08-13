@@ -1,57 +1,26 @@
 ---
 template: SinglePost
-title: Red
+title: "Interior Painting Step 1: Prepping a Room"
 status: Featured / Published
-date: '2018-03-27'
-featuredImage: 'https://ucarecdn.com/94633346-778b-4474-8039-b18280ec73a3/'
-excerpt: >-
-  Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam
-  interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus
-  est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
-  pellentesque, lacinia risus ut, imperdiet eros.
+date: 2021-07-06
+featuredImage: https://ucarecdn.com/ed6a220a-7947-43cd-9dcd-fa1391d3c164/
+excerpt: "Interior Painting "
 categories:
   - category: News
 meta:
-  canonicalLink: ''
+  canonicalLink: ""
   description: test meta description
   noindex: false
   title: test meta title
 ---
-Paragraphs are separated by a blank line.
 
-![Test Image](https://ucarecdn.com/ac9898a0-413a-467b-95fa-0a9959c30710/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Id64silK_7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
 
-### Unordered lists:
+![Test Image](https://ucarecdn.com/75394904-0885-4b84-8be3-51ecf4889aef/)
 
-* this one
-* that one
-* the other one
+<iframe width="560" height="315" src="https://youtu.be/oNagIA8sKY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Ordered lists:
+#### Introduction
 
-1. first item
-2. second item
-3. third item
-
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-## Heading 2
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+John Burbidge, author of the book "Watching Paint Dry," shows how to prep a room for painting and get great results, including filling nail holes, sanding, caulking, priming, and taping. Visit [http://www.howtopaintahouseright.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblVNMFI3SkhpZWFYTW53bGpPdy1BUzFWTHJoUXxBQ3Jtc0tuMjg4aGdhRlhjRmpudzdpY1pPSVdJMER6MGRBWUVVeWNJekFvWjBzVFBiY1VsVXpEU2piQnA1VW5WSE5ySW5WYmJOX0tPa2xueVpXcWZpQUpTWm95eTdiYXlHN1E2d1JERVp6U1hvcUNYUUYzdWR3QQ&q=http%3A%2F%2Fwww.howtopaintahouseright.com%2F) to view a complete series of videos on interior and exterior house painting!
