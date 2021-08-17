@@ -12,8 +12,9 @@ subtitle: >-
   **Call us at: (416)475-2272**
 accordion: []
 meta:
-  description: "The best painting service in GTA. Contact us at: 416-457-2272"
+  description: The best painting service in GTA. Contact us at 416-457-2272
   title: Kalpin Painting - The best painting service
+  canonicalLink: ""
 ---
 # OUR SERVICES
 
