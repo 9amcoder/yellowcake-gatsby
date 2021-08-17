@@ -26,19 +26,26 @@ accordion:
 gallery:
   - alt: interior painting1
     image: https://ucarecdn.com/cde1b72f-360c-4fb7-864a-401e9fc2f3e1/
-    title: ""
+    title: "  "
   - alt: Interior painting 1
     image: https://ucarecdn.com/8199f9b5-8c07-4d1e-9ca5-85e0ac7f5838/
-    title: ""
+    title: "  "
   - alt: Interior painting3
     image: https://ucarecdn.com/2bd18bdb-b8c8-4905-b660-bfa73f220937/
-    title: ""
+    title: "  "
   - image: https://ucarecdn.com/23cb6f5f-32d6-472b-a11e-7b1ca3669989/
     alt: Exterior painting1
-    title: ""
-  - image: https://ucarecdn.com/3d5cda7d-2de7-4424-a467-b70e6b47de38/
+    title: "  "
+  - image: https://ucarecdn.com/91f037de-4723-482a-8fad-77b2d57181b1/
     alt: Exterior painting2
+    title: "  "
+  - title: " "
+    image: https://ucarecdn.com/a29e8675-e208-426e-b090-4a41da986a25/
+    alt: interior6
+  - image: https://ucarecdn.com/e127b6c5-56ae-463a-baa6-3dc9ce627aea/
+    title: " "
+    alt: interior7
 meta:
-  description: Painting
-  title: null
+  description: The best Painting service in GTA
+  title: Kalpin painting photo gallery
 ---
