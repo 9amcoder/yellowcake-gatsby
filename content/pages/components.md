@@ -24,11 +24,20 @@ accordion:
       would like know more about our privacy policy
     title: Privacy policy
 gallery:
-  - alt: interior painting1
-    image: https://ucarecdn.com/cde1b72f-360c-4fb7-864a-401e9fc2f3e1/
-    title: "  "
+  - image: https://ucarecdn.com/e127b6c5-56ae-463a-baa6-3dc9ce627aea/
+    title: " "
+    alt: interior7
+  - title: " "
+    image: https://ucarecdn.com/a29e8675-e208-426e-b090-4a41da986a25/
+    alt: interior6
   - alt: Interior painting 1
     image: https://ucarecdn.com/8199f9b5-8c07-4d1e-9ca5-85e0ac7f5838/
+    title: "  "
+  - image: https://ucarecdn.com/91f037de-4723-482a-8fad-77b2d57181b1/
+    alt: Exterior painting2
+    title: "  "
+  - alt: interior painting1
+    image: https://ucarecdn.com/cde1b72f-360c-4fb7-864a-401e9fc2f3e1/
     title: "  "
   - alt: Interior painting3
     image: https://ucarecdn.com/2bd18bdb-b8c8-4905-b660-bfa73f220937/
@@ -36,15 +45,9 @@ gallery:
   - image: https://ucarecdn.com/23cb6f5f-32d6-472b-a11e-7b1ca3669989/
     alt: Exterior painting1
     title: "  "
-  - image: https://ucarecdn.com/91f037de-4723-482a-8fad-77b2d57181b1/
-    alt: Exterior painting2
-    title: "  "
-  - title: " "
-    image: https://ucarecdn.com/a29e8675-e208-426e-b090-4a41da986a25/
-    alt: interior6
-  - image: https://ucarecdn.com/e127b6c5-56ae-463a-baa6-3dc9ce627aea/
-    title: " "
-    alt: interior7
+  - image: https://ucarecdn.com/d77df87f-2e3a-4b07-8db8-35da193eedab/
+    title: Residential
+    alt: Exterior painting
 meta:
   description: The best Painting service in GTA
   title: Kalpin painting photo gallery
