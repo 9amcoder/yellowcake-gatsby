@@ -4,9 +4,9 @@ slug: ""
 title: HIGH-QUALITY INTERIOR & EXTERIOR PAINTING SERVICES
 featuredImage: https://images.unsplash.com/photo-1562259949-e8e7689d7828?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1016&q=80
 subtitle: >-
-  #### Based in Guelph, Ontario since 2010, we provide high-quality painting
-  services for all kind of surface from new residential constructions to
-  commercial properties.
+  #### Based in Guelph, Ontario. We provide high-quality painting services for
+  all kind of surface from new residential constructions to commercial
+  properties.
 
 
   **Call us at: (416)475-2272**
