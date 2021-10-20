@@ -51,6 +51,9 @@ gallery:
   - image: https://ucarecdn.com/c150e5c4-2b0c-4592-99ca-857dac9c3a55/
     alt: Exterior painting
     title: ""
+  - image: https://ucarecdn.com/4d650acd-ba31-4a17-beba-d4ae30588204/
+    alt: Commercial
+    title: Warehouse
 meta:
   description: The best Painting service in GTA
   title: Kalpin painting photo gallery
