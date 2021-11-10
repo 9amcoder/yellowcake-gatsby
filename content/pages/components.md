@@ -63,6 +63,9 @@ gallery:
   - image: https://ucarecdn.com/27cd3c06-b585-4c56-a2f2-deca137a00d3/
     alt: Bathroom
     title: Bathroom Painting
+  - image: https://ucarecdn.com/d49928b1-989d-4a63-84e5-cc1ea6c26180/
+    alt: Kitchen cabinets
+    title: Kitchen cabinets Painting
 meta:
   description: The best Painting service in GTA
   title: Kalpin painting photo gallery
