@@ -36,9 +36,6 @@ gallery:
   - image: https://ucarecdn.com/91f037de-4723-482a-8fad-77b2d57181b1/
     alt: Exterior painting2
     title: "  "
-  - alt: interior painting1
-    image: https://ucarecdn.com/cde1b72f-360c-4fb7-864a-401e9fc2f3e1/
-    title: "  "
   - alt: Interior painting3
     image: https://ucarecdn.com/2bd18bdb-b8c8-4905-b660-bfa73f220937/
     title: "  "
