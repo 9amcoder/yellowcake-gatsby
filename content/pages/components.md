@@ -16,7 +16,7 @@ videoTitle: The Best Painting Service
 accordion:
   - description: "Painting company with 10 years experience "
     title: Who we are?
-  - description: Interior, exterior , commercial painting service
+  - description: Interior, exterior , commercial and residential painting service
     title: What we do?
   - description: Call us at 416-475-2272 or email us at Kalpinpainting@gmail.com
     title: How to contact?
