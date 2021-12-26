@@ -66,6 +66,8 @@ gallery:
   - image: https://ucarecdn.com/2c016ab3-9558-48e1-b5e7-355c4e04d97c/
     alt: Commercial
     title: Commercial Painting
+  - image: https://ucarecdn.com/32ac8330-f4eb-4eb1-9bd9-595ef9c11ac5/
+    alt: Professionals
 meta:
   description: The best Painting service in GTA
   title: Kalpin painting photo gallery
