@@ -14,7 +14,9 @@ video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
 videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
 videoTitle: The Best Painting Service
 accordion:
-  - description: "Painting company with 10 years experience "
+  - description: We are professional painters who deliver quality results and a
+      fantastic experience to commercial and residential locations across
+      Kitchener, Waterloo, Cambridge, Guelph, and surrounding area.
     title: Who we are?
   - description: Interior, exterior , commercial and residential painting service
     title: What we do?
