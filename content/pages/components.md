@@ -50,7 +50,7 @@ gallery:
   - image: https://ucarecdn.com/91f037de-4723-482a-8fad-77b2d57181b1/
     alt: Exterior painting2
     title: "  "
-  - image: https://ucarecdn.com/33519a27-3a49-4046-b057-c99aa0e4925a/
+  - image: https://ucarecdn.com/d8f6f384-dc2a-44a4-84ab-3ab984d94b33/
     alt: Residential
     title: Interior Painting
   - image: https://ucarecdn.com/d77df87f-2e3a-4b07-8db8-35da193eedab/
@@ -64,16 +64,16 @@ gallery:
     title: ""
   - image: https://ucarecdn.com/a92ca505-4f6d-43e3-be23-902ecb3892ae/
     alt: "Kitchen cabinets spray finishes "
+  - image: https://ucarecdn.com/33716759-68b1-40cc-87f8-5476874f4381/
+    alt: Walpaper
+  - image: https://ucarecdn.com/3a945ddf-1536-4c2a-ae82-5d28ad9d543b/
+    alt: Stain
   - image: https://ucarecdn.com/e3cdb8c8-6c14-4a3b-adc1-7c389afad6d1/
     alt: Commercial
     title: Warehouse
   - image: https://ucarecdn.com/2c016ab3-9558-48e1-b5e7-355c4e04d97c/
     alt: Commercial
     title: Commercial Painting
-  - image: https://ucarecdn.com/33716759-68b1-40cc-87f8-5476874f4381/
-    alt: Walpaper
-  - image: https://ucarecdn.com/3a945ddf-1536-4c2a-ae82-5d28ad9d543b/
-    alt: Stain
 meta:
   description: The best Painting service in GTA
   title: Kalpin painting photo gallery
