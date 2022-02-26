@@ -71,7 +71,7 @@ gallery:
   - image: https://ucarecdn.com/e3cdb8c8-6c14-4a3b-adc1-7c389afad6d1/
     alt: Commercial
     title: Warehouse
-  - image: https://ucarecdn.com/2c016ab3-9558-48e1-b5e7-355c4e04d97c/
+  - image: https://ucarecdn.com/a1364b2d-702e-46d8-a0d5-14e586959549/
     alt: Commercial
     title: Commercial Painting
 meta:
