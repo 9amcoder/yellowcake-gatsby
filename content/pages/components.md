@@ -48,8 +48,8 @@ gallery:
     image: https://ucarecdn.com/8199f9b5-8c07-4d1e-9ca5-85e0ac7f5838/
     title: "  "
   - image: https://ucarecdn.com/91f037de-4723-482a-8fad-77b2d57181b1/
-    alt: Exterior painting2
-    title: "  "
+    alt: "Apartment "
+    title: "  Apartment"
   - image: https://ucarecdn.com/d8f6f384-dc2a-44a4-84ab-3ab984d94b33/
     alt: Residential
     title: Interior Painting
