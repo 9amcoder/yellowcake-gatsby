@@ -75,6 +75,6 @@ gallery:
   - image: https://ucarecdn.com/a92ca505-4f6d-43e3-be23-902ecb3892ae/
     alt: "Kitchen cabinets spray finishes "
 meta:
-  description: The best Painting service in GTA
+  description: The best Painting service in all southwestern Ontario
   title: Kalpin painting photo gallery
 ---
